@@ -21,6 +21,7 @@
   <br/>
 
 
+
 </div>
 
 
@@ -31,6 +32,8 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=2800&pause=800&color=00F5FF&center=true&vCenter=true&multiline=true&width=900&height=120&lines=Hi+%F0%9F%91%8B+I'm+Pranjul+Tiwari;Full-Stack+Developer+%F0%9F%9A%80+AI%2FML+Engineer+%F0%9F%A4%96;Building+the+Future%2C+One+Commit+at+a+Time+%E2%9A%A1" alt="Typing SVG" />
   </a>
 
+  <br/>
+  <br/>
   <br/>
 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Pranjul%20Tiwari&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20%7C%20AI%2FML%20%7C%20Backend%20Engineer&descAlignY=62&descSize=18" width="100%"/>
