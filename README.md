@@ -5,8 +5,6 @@
   
 </div>
 
-> ⚙️ **Setup once:** Go to your repo `Pranjul2121/Pranjul2121` → **Actions** tab → enable workflows → create `.github/workflows/snake.yml` (config provided at the bottom of this file). The snake auto-generates every 12 hours. ✅
-
 ---
 
 <!-- ✨ ANIMATED HEADER ✨ -->
