@@ -20,12 +20,6 @@
 
   <br/>
 
-  <!-- 💚 ALWAYS-FULL GREEN CONTRIBUTION CHART (decorative — looks fully active) -->
-  <img
-    src="https://ghchart.rshah.org/00ff7f/Pranjul2121"
-    alt="Pranjul's bright green contribution chart"
-    width="92%"
-  />
 
 </div>
 
