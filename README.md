@@ -1,27 +1,258 @@
-# 💫 About Me:
-🔭 Currently working on:<br>AI-powered platforms (INDIAIN, SecureChat) → improved recommendation accuracy by 30%+<br><br>👯 Looking to collaborate on:<br>Backend + AI/ML projects (FastAPI, WebSockets, NLP) → scalable systems with <200ms APIs<br><br>🤝 Looking for help with:<br>System Design, Microservices, and scaling apps to 10K+ users<br><br>🌱 Currently learning:<br>DSA (daily 2–3 hrs), Java + Spring Boot, System Design fundamentals<br><br>💬 Ask me about:<br>FastAPI, AI projects, Resume NLP, Web3, real-time systems<br><br>⚡ Fun fact:<br>Built 5+ projects with 85–90% accuracy & aiming for ₹20+ LPA SDE role by 2028
+<!-- 🐍 SNAKE ANIMATION EATING CONTRIBUTIONS (TOP) -->
+<div align="center">
+  
+  <img src="https://raw.githubusercontent.com/Pranjul2121/Pranjul2121/output/github-contribution-grid-snake-dark.svg" alt="snake eating my contributions" />
+  
+</div>
 
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/pranjul__2121) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pranjul-tiwari21) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/pranjult__2121) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@Pranjul__2121) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@vlogsbypranjul) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pranjult21@gmail.com) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=flat-square&logo=latex&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=flat-square&logo=powershell&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=flat-square&logo=windows-terminal&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat-square&logo=microsoftazure&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat-square&logo=google-cloud&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat-square&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat-square&logo=vercel&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat-square&logo=firebase) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=flat-square&logo=render&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=flat-square&logo=anaconda&logoColor=white) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=flat-square&logo=apachekafka) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat-square&logo=bootstrap&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat-square&logo=php&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi) ![JWT](https://img.shields.io/badge/JWT-black?style=flat-square&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat-square&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=flat-square&logo=opencv&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=flat-square&logo=streamlit&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat-square&logo=vite&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=flat-square&logo=apache-tomcat&logoColor=black) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=flat-square&logo=nginx&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=flat-square&logo=jenkins&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=flat-square&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=flat-square&logo=blender&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat-square&logo=Canva&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat-square&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat-square&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=flat-square&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=TensorFlow&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat-square&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-square&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat-square&logo=scipy&logoColor=%white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat-square&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white) ![Prezi](https://img.shields.io/badge/Prezi-%23000000.svg?style=flat-square&logo=Prezi&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=flat-square&logo=swagger&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Pranjul2121&theme=neon&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Pranjul2121&theme=neon&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Pranjul2121&theme=neon&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Pranjul2121&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Pranjul2121&limit=5&theme=dark&combine_all_yearly_contributions=true)
+> ⚙️ **Setup once:** Go to your repo `Pranjul2121/Pranjul2121` → **Actions** tab → enable workflows → create `.github/workflows/snake.yml` (config provided at the bottom of this file). The snake auto-generates every 12 hours. ✅
 
 ---
-[![](https://komarev.com/ghpvc/?username=Pranjul2121&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- ✨ ANIMATED HEADER ✨ -->
+<div align="center">
+  
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=2800&pause=800&color=00F5FF&center=true&vCenter=true&multiline=true&width=900&height=120&lines=Hi+%F0%9F%91%8B+I'm+Pranjul+Tiwari;Full-Stack+Developer+%F0%9F%9A%80+AI%2FML+Engineer+%F0%9F%A4%96;Building+the+Future%2C+One+Commit+at+a+Time+%E2%9A%A1" alt="Typing SVG" />
+  </a>
+
+  <br/>
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Pranjul%20Tiwari&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20%7C%20AI%2FML%20%7C%20Backend%20Engineer&descAlignY=62&descSize=18" width="100%"/>
+  
+  <br/>
+
+  <!-- Profile Views + Followers + Stars -->
+  <img src="https://komarev.com/ghpvc/?username=Pranjul2121&label=Profile%20Views&color=00f5ff&style=for-the-badge" alt="profile views"/>
+  <img src="https://img.shields.io/github/followers/Pranjul2121?label=Followers&style=for-the-badge&color=ff00ff&labelColor=000" alt="followers"/>
+  <img src="https://img.shields.io/github/stars/Pranjul2121?label=Stars&style=for-the-badge&color=ffd700&labelColor=000" alt="stars"/>
+
+</div>
+
+---
+
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About Me
+
+```typescript
+const pranjul = {
+  pronouns: "He" | "Him",
+  role: "Full-Stack Developer 🚀 | AI/ML Engineer 🤖",
+  location: "Building the Future, one commit at a time 🌍",
+
+  expertise: {
+    languages:  ["Python 🐍", "JavaScript", "TypeScript", "C++", "Java"],
+    frontend:   ["React ⚛️", "Next.js", "TailwindCSS 🎨"],
+    backend:    ["Node.js", "FastAPI ⚡", "Express", "WebSockets"],
+    aiml:       ["TensorFlow", "PyTorch", "NLP", "OpenCV"],
+    cloud:      ["AWS", "GCP", "Azure", "Docker 🐳"],
+    databases:  ["MongoDB", "PostgreSQL", "MySQL", "Supabase"],
+  },
+
+  currentlyBuilding: ["INDIAIN 🇮🇳", "SecureChat 🔐"],
+  learning:          ["DSA (2-3 hrs/day)", "Spring Boot ☕", "System Design"],
+  goal2028:          "₹20+ LPA SDE Role 💼",
+
+  funFact: "Built 5+ projects with 85-90% accuracy 🎯",
+  motto:   "Write code that your future self will thank you for ✨",
+};
+```
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://linkedin.com/in/pranjul-tiwari21"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://instagram.com/pranjul__2121"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+<a href="https://x.com/Pranjul__2121"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+<a href="https://youtube.com/@vlogsbypranjul"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+<a href="https://pinterest.com/pranjult__2121"><img src="https://img.shields.io/badge/Pinterest-E60023?style=for-the-badge&logo=pinterest&logoColor=white" /></a>
+<a href="mailto:pranjult21@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+
+</div>
+
+---
+
+## 🛠️ Tech Arsenal
+
+<div align="center">
+
+### 💻 Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=python,js,ts,java,cpp,c,html,css,php,bash" />
+</p>
+
+### ⚛️ Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,bootstrap,figma" />
+</p>
+
+### 🚀 Backend & APIs
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,spring,nginx,kafka" />
+</p>
+
+### 🤖 AI / ML / Data Science
+<p>
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,sklearn" />
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Streamlit-FE4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+</p>
+
+### 🗄️ Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,supabase,firebase" />
+</p>
+
+### ☁️ Cloud & DevOps
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,jenkins,githubactions,vercel,netlify" />
+</p>
+
+### 🛠️ Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux,blender" />
+</p>
+
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Pranjul2121&theme=radical&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=FF00FF&text_color=FFFFFF" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranjul2121&theme=radical&hide_border=true&layout=compact&bg_color=0D1117&title_color=00F5FF&text_color=FFFFFF&langs_count=8" />
+
+</div>
+
+<div align="center">
+  
+  <img src="https://streak-stats.demolab.com?user=Pranjul2121&theme=radical&hide_border=true&background=0D1117&stroke=00F5FF&ring=FF00FF&fire=FFD700&currStreakLabel=00F5FF" alt="GitHub Streak" />
+
+</div>
+
+<div align="center">
+  
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pranjul2121&theme=radical" />
+
+</div>
+
+<div align="center">
+
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Pranjul2121&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Pranjul2121&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Pranjul2121&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Pranjul2121&theme=radical&utcOffset=5.5" />
+
+</div>
+
+---
+
+## 📈 Contribution Activity Graph
+
+<div align="center">
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pranjul2121&theme=react-dark&bg_color=0D1117&color=00f5ff&line=ff00ff&point=ffd700&hide_border=true&area=true" width="100%"/>
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+  <img src="https://github-profile-trophy.vercel.app/?username=Pranjul2121&theme=radical&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=7" />
+
+</div>
+
+---
+
+## 💡 Featured Projects
+
+<div align="center">
+
+  <a href="https://github.com/Pranjul2121/INDIAIN">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pranjul2121&repo=INDIAIN&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=FF00FF" />
+  </a>
+  <a href="https://github.com/Pranjul2121/SecureChat">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pranjul2121&repo=SecureChat&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=FF00FF" />
+  </a>
+
+</div>
+
+---
+
+## ✍️ Random Dev Quote
+
+<div align="center">
+
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+
+</div>
+
+---
+
+## 🤝 Let's Build Something Extraordinary
+
+<div align="center">
+
+  <a href="mailto:pranjult21@gmail.com">
+    <img src="https://img.shields.io/badge/📧%20Hire%20Me-00F5FF?style=for-the-badge&logoColor=white&labelColor=000" />
+  </a>
+  <a href="https://linkedin.com/in/pranjul-tiwari21">
+    <img src="https://img.shields.io/badge/💼%20Collaborate-FF00FF?style=for-the-badge&logoColor=white&labelColor=000" />
+  </a>
+
+  <br/><br/>
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
+
+  <i>⭐ From <a href="https://github.com/Pranjul2121">Pranjul2121</a> — with passion & caffeine ☕</i>
+
+</div>
+
+<!--
+
+============================================================
+🐍 SNAKE WORKFLOW SETUP — copy below into:
+   .github/workflows/snake.yml   (in repo: Pranjul2121/Pranjul2121)
+============================================================
+
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: Pranjul2121
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+
+      - uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+============================================================
+-->
