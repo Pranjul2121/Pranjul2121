@@ -1,9 +1,38 @@
-<!-- 🐍 SNAKE ANIMATION EATING CONTRIBUTIONS (TOP) -->
+<!-- 🐍 SNAKE ANIMATION EATING A FULL BRIGHT CONTRIBUTION GRID 🐍 -->
 <div align="center">
-  
-  <img src="https://raw.githubusercontent.com/Pranjul2121/Pranjul2121/output/github-contribution-grid-snake-dark.svg" alt="snake eating my contributions" />
-  
+
+  <!-- 🌈 FULL BRIGHT NEON SNAKE (custom palette — every cell glows) -->
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/Pranjul2121/Pranjul2121/output/github-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/Pranjul2121/Pranjul2121/output/github-snake.svg"
+    />
+    <img
+      alt="🐍 Snake animation eating my full bright contribution grid"
+      src="https://raw.githubusercontent.com/Pranjul2121/Pranjul2121/output/ocean.gif"
+      width="100%"
+    />
+  </picture>
+
+  <br/>
+
+  <!-- 💚 ALWAYS-FULL GREEN CONTRIBUTION CHART (decorative — looks fully active) -->
+  <img
+    src="https://ghchart.rshah.org/00ff7f/Pranjul2121"
+    alt="Pranjul's bright green contribution chart"
+    width="92%"
+  />
+
 </div>
+
+> ⚙️ **One-time setup for the BRIGHT snake:**
+> 1. Create repo `Pranjul2121/Pranjul2121` (same name as your username).
+> 2. Add `.github/workflows/snake.yml` (full config at the bottom of this README — it now generates **3 variants**: `github-snake.svg`, `github-snake-dark.svg`, and a colorful `ocean.gif` 🌊).
+> 3. Go to **Actions** tab → enable workflows → run **Generate Snake** once. The grid will glow ✨ and the snake will start eating every 12 hours 🐍🔥
 
 ---
 
@@ -241,9 +270,9 @@ jobs:
         with:
           github_user_name: Pranjul2121
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-            dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+            dist/github-snake.svg?palette=github-light&color_snake=#FF1F8F&color_dots=#ffe5b4,#ffb347,#ff7a00,#ff1f8f,#9d00ff
+            dist/github-snake-dark.svg?palette=github-dark&color_snake=#00F5FF&color_dots=#0a0a23,#1f8fff,#00f5ff,#39ff14,#ff1f8f
+            dist/ocean.gif?color_snake=#FFD700&color_dots=#0d1117,#39ff14,#00f5ff,#ff1f8f,#9d00ff
 
       - uses: crazy-max/ghaction-github-pages@v4
         with:
