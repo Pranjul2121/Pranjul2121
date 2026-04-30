@@ -29,12 +29,6 @@
 
 </div>
 
-> ⚙️ **One-time setup for the BRIGHT snake:**
-> 1. Create repo `Pranjul2121/Pranjul2121` (same name as your username).
-> 2. Add `.github/workflows/snake.yml` (full config at the bottom of this README — it now generates **3 variants**: `github-snake.svg`, `github-snake-dark.svg`, and a colorful `ocean.gif` 🌊).
-> 3. Go to **Actions** tab → enable workflows → run **Generate Snake** once. The grid will glow ✨ and the snake will start eating every 12 hours 🐍🔥
-
----
 
 <!-- ✨ ANIMATED HEADER ✨ -->
 <div align="center">
